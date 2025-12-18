@@ -1,4 +1,4 @@
-# JuliaDynamics
+# Julia-Notebooks-on-Dynamics
 This repository stores some **Julia notebooks** with basic numerical solutions of various **dynamic** problems. Simulations are mostly done using publicly available libraries like **Gridap** etc.
 
 Examples: 
