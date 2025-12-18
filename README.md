@@ -1,5 +1,5 @@
 # JuliaDynamics
-This repository stores some basic numerical solutions of dynamic problems, implemented in Julia code, using publicly available libraries like Gridap etc.
+This repository stores some **Julia notebooks** with basic numerical solutions of various **dynamic** problems. Simulations are mostly done using publicly available libraries like Gridap etc.
 
 Examples include: 
 
