@@ -3,4 +3,4 @@ This repository stores some **Julia notebooks** with basic numerical solutions o
 
 Examples include: 
 
-  [Linear Elastic] (https://github.com/shamiks/JuliaDynamics/blob/main/JuliaDynamicsExamples/LinearElastic/LinElasticity.ipynb)
+  [Linear Elastic](https://github.com/shamiks/JuliaDynamics/blob/main/JuliaDynamicsExamples/LinearElastic/LinElasticity.ipynb)
